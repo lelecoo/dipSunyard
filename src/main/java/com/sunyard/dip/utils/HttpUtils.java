@@ -12,6 +12,8 @@ import org.apache.http.message.BasicHeader;
 import org.apache.http.util.EntityUtils;
 
 /**
+ * http工具类
+ *
  * Created by Administrator on 2018/5/25/0025.
  */
 public class HttpUtils {
