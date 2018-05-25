@@ -17,7 +17,7 @@ import org.apache.http.util.EntityUtils;
  * Created by Administrator on 2018/5/25/0025.
  */
 public class HttpUtils {
-    private String cha = "aa";
+
     private static final String charset = "UTF-8";
 
     public static String doGet(String url, int connectTimeOut, int readTimeOut) throws Exception {
